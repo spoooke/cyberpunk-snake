@@ -24,7 +24,7 @@ Ce jeu est une réinterprétation du classique Snake dans un univers cyberpunk, 
 
 1. Cloner le repository
 ```bash
-git clone https://github.com/[votre-username]/cyberpunk-snake.git
+git clone https://github.com/spoooke/cyberpunk-snake.git
 ```
 
 2. Créer le dossier build et compiler
